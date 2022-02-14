@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PedroNegreto
+- 👀 I’m interested in Home Office and Music Projects
+- 🌱 I’m currently learning Web Projects (React, NodeJs, Html, CSS, Js, Bootstrap, MongoDB)
+- 💞️ I’m looking to collaborate on Programming Projects
+- 📫 How to reach me pedronegreto@hotmail.com @pedronegreto
